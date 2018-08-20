@@ -2,3 +2,5 @@
 .DS_Store
 # Ignore a.out
 *.out
+# Ignore test.cpp
+test.cpp
