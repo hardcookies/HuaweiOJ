@@ -3,4 +3,6 @@
 # Ignore a.out
 *.out
 # Ignore test.cpp
-test.cpp
+test*.cpp
+# Ignore input data
+*.input
